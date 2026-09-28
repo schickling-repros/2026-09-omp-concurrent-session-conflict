@@ -38,4 +38,4 @@ BUG REPRODUCED: both later in-memory turns are missing from disk
 
 ## Related Issue
 
-(To be linked after filing.)
+https://github.com/can1357/oh-my-pi/issues/13596
